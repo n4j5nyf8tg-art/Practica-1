@@ -1,0 +1,5 @@
+1. ¿Cómo puede utilizarse la tomografía sísmica para identificar variaciones en la estructura y composición del subsuelo?
+La tomografía sísmica utiliza las ondas sísmicas (generadas por sismos o fuentes controladas) que viajan a través de la Tierra de manera similar a como los rayos X se usan en una tomografía médica. Al medir el tiempo que tardan estas ondas en llegar de una fuente a diferentes receptores (sismómetros), se pueden calcular las velocidades de propagación de las ondas P y S.
+Dado que la velocidad de las ondas depende de las propiedades físicas de las rocas (como su densidad, elasticidad, temperatura, porosidad y presencia de fluidos), las variaciones en estas velocidades permiten mapear en 3D las anomalías del subsuelo. Por ejemplo:
+ Zonas de alta velocidad: Suelen indicar rocas más densas, compactas o frías (como intrusiones magmáticas o el basamento rocoso).
+ Zonas de baja velocidad: Suelen asociarse con sedimentos no consolidados, fracturas, presencia de fluidos o zonas de alta temperatura (como cámaras magmáticas o fallas activas).
